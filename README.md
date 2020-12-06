@@ -6,7 +6,7 @@ Simon was an electronic game of memory skill invented by Ralph H. Baer and Howar
 There are four colored buttons, each producing a particular tone when it is pressed or activated. A round in the game consists of the bot lighting up one random button, after which the player must reproduce that same order/sequence by pressing the buttons. As the game progresses,it get tougher to remember the sequence. In order to move forward in the game the player must press all the buttons in the same sequence as they were pressed by the bot.
 
 ## Author 
-> Nishkarsh01
+> Nishkarsh Dubb
 
 ## Screenshots 📷
 ![Game Screenshot Beginning](screenshots/1.png)
